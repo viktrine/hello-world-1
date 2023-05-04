@@ -10,8 +10,7 @@ To start using this project use the following commands:
 - `git clone https://github.com/moringaschool/hello-world.git`
 - `cd hello-world`
 - `atom .`
-- `code .` [//]: # (this is if Visual Studio Code is your preferred text editor)
-- `code .` For my case, I am using ```mycode .```
+- `code .` To open VScode on this code
 
 ## License info
 MIT License
