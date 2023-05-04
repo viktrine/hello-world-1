@@ -1,7 +1,7 @@
 # Hello-World
 
 ## Authors
-- [iantheninja](https://github.com/iantheninja)
+- [Victor Langat](https://github.com/viktrine)
 - Add your clickable username here. It should point to your GitHub account. 
 
 ## Project setup instructions
@@ -11,6 +11,7 @@ To start using this project use the following commands:
 - `cd hello-world`
 - `atom .`
 - `code .` [//]: # (this is if Visual Studio Code is your preferred text editor)
+- `code .` For my case, I am using ```mycode .```
 
 ## License info
 MIT License
